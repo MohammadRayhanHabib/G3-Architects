@@ -62,6 +62,12 @@ body{
     text-align: center;
     margin-bottom: 50px;
 }
+
+.banner-discription{
+    color: rgba(114, 114, 114, 1);
+}
+
+
 .banner-title{
     font-size: 4rem;
     font-weight: 700;
